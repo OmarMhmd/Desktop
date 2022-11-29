@@ -1,0 +1,26 @@
+body{
+	padding-top: 50px;
+}
+.container{
+	height: 4000px;
+	width: 1300px;
+	margin: 0 auto;
+	background-color: #555
+}
+/*header starts here*/
+header{
+	height: 50px;
+	position: fixed;
+	background-color: #ccc;
+	width: 1300px;
+	top: 0px;
+}
+
+ul{
+	list-style-type: none;
+}
+ul li{
+	float: right;
+}
+
+/*header starts here*/

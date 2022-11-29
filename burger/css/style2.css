@@ -1,0 +1,47 @@
+.container{
+	height: 4000px;
+	width: 1300px;
+	margin: 0 auto;
+	background-color: #555
+}
+/*header starts here*/
+header{
+	
+	width: 1300px;
+	padding: 15px 0;
+	box-sizing: border-box;
+	background-color: #fff;
+	overflow: hidden;
+	position: fixed;
+}
+
+h1{
+	
+	background-color: red;
+	float: left;
+	display: inline-block;	
+	box-sizing: border-box;
+	height: 40px;
+}
+ul {
+	list-style-type: none;
+	float: right;
+	
+}
+ul li{
+	float: left;
+	display: inline-block;
+	
+
+}
+ul li a{
+		text-align: center;
+		padding: 15px;
+		margin-left: 17px;
+}
+ul li a:hover{
+		background-color: #555;
+
+}
+
+/*header starts here*/
